@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/the-bones/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for The Bones](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-bones/) |
+| **Get License** | [Request Licensing for The Bones](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-bones/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel you moving closer in the candlelight
+> There is nothing left to hide between us now
+> I just want to get lost in your eyes tonight
+> Let the shadows wrap around us, show me how
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
